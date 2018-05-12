@@ -1,0 +1,36 @@
+_repo: Moores-Fables-for-the-Female-Sex_39499
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brooke, Henry
+    alias: Brooke, H. (Henry)
+    deathdate: 1783
+    gutenberg_agent_id: '32556'
+    url: http://www.gutenberg.org/2009/agents/32556
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Edward
+    alias: Fitz-Adam, Adam
+    birthdate: 1712
+    deathdate: 1757
+    gutenberg_agent_id: '6596'
+    url: http://www.gutenberg.org/2009/agents/6596
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Moore
+description: ''
+gutenberg_issued: '2012-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 18th century'
+- !lcsh 'Fables'
+title: Moores Fables for the Female Sex
+url: http://www.gutenberg.org/ebooks/39499
